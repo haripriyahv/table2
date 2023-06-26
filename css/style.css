@@ -1,0 +1,16 @@
+/*Author:Haripriya
+Date:24/06/2023*/
+table{
+    border-collapse: collapse;
+    outline: 3px solid #a45d5d;
+    border: 8px solid #b5cda3;
+    width: 100%;
+    text-align: center;
+}
+tr{
+    background-color: #f8f0df;
+}
+th,td{
+    padding: 8px;
+    border-bottom: 3px solid #DDD;
+}
